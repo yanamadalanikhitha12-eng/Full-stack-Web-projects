@@ -1,0 +1,17 @@
+body {
+    scroll-behavior: smooth;
+}
+
+section {
+    padding-top: 60px;
+}
+
+.card img {
+    height: 200px;
+    object-fit: cover;
+}
+.nam{
+    color:rgb(44, 42, 42);
+    text-decoration: underline red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
